@@ -1,0 +1,31 @@
+{
+    "browser": true,
+    "bitwise": true,
+    "devel": true,
+    "curly": true,
+    "eqeqeq": true,
+    "forin": true,
+    "immed": true,
+    "jquery": true,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "quotmark": true,
+    "regexp": true,
+    "undef": true,
+    "unused": false,
+    "trailing": true,
+    "smarttabs": true,
+    "predef": [
+        "Drupal",
+        "Modernizr"
+    ],
+    "globals": {
+        "angular": true,
+	"_": true,
+	"require": true,
+	"requirejs": true,
+	"define": true,
+	"lighthouse": true
+    }
+}
